@@ -8,7 +8,7 @@
      - 50% for working website
    - Code Reviews Due by: 4/11 11:59 pm
    - Review in class: 4/13 2:00 pm
-   - Final turn in: 4/13 11:59 pm 
+   - Final turn in: 4/13 11:59 pm
 1. [Assignment 2](Assignment2.md)
    - 100 points +5 EC points
    - Assigned: 4/13
@@ -51,8 +51,8 @@
    - In class hackathon 6/8
    - Final project presentations finals week
 
-
 If you are having trouble viwing the below graph, copy the code and paste it [in this editor](https://mermaid-js.github.io/docs/mermaid-live-editor-beta)
+
 ```mermaid
 gantt
     title Assignments Timeline
@@ -79,12 +79,15 @@ gantt
     Final Changes :A5-FC, 2023-06-06, 2023-06-08
     section Final
     Final Project :F, 2023-06-08, 2023-06-15
-            
+
 ```
 
 ---
+
 # Grading Breakdown
+
 _The below is subject to change._
+
 ```
 0-64	F
 65-66	D
@@ -103,31 +106,37 @@ Each assignment is a total of 100 points. Assignments may contain up to 10 point
 Assignments will also include an additional 10 points that can be awarded to one team per assignment for the best submission.
 
 ## Fundamentals (up to 5 points + up to 100% deduction of final grade)
+
 - Code is clean (up to 5 points)
-   - Follows best practices. 
-   - The simplicity first approach is followed.
-   - The code is formatted well with out large amounts of whitespace or indenting issues
-   - The PR git diff is clean and easy to read (no extra, unrelated files, or messy PR diffs)
- - 100% deduction if submission is late (for initial turn in date + final turn in date)
- - 50% deduction for broken pipeline with failing unit test by initial turn in date
- - 50% deduction for broken website by initial turn in date
+  - Follows best practices.
+  - The simplicity first approach is followed.
+  - The code is formatted well with out large amounts of whitespace or indenting issues
+  - The PR git diff is clean and easy to read (no extra, unrelated files, or messy PR diffs)
+- 100% deduction if submission is late (for initial turn in date + final turn in date)
+- 50% deduction for broken pipeline with failing unit test by initial turn in date
+- 50% deduction for broken website by initial turn in date
 
 ## Assignment (60 points)
+
 - Points are distributed among each bulleted assignment instruction with partial credit being possible for all parts of the assignment.
 
 ## Final Corrections (5 points)
+
 - All code review comments addressed
 
 ## Peer Review (PR review) (20 points)
+
 - The review should leave helpful inline comments on the code
 - Look for a PR with no reviews first
 - It is likely each PR will have more than 1 review, so you are also welcome to leave comments ontop of another students review either elaborating further or disagreeing with the review.
 - Make sure you review the assignment for each assignment instruction, commenting inline for each portion of the assignment.
 
 ## Partnered (10 points)
+
 - 10 points for pairing for the assignment.
 
 ## Extra Credit (up to 5 points)
-- These points are given out at the instructor's discretion. 
+
+- These points are given out at the instructor's discretion.
 - These may not be given out if the assignment is not completed to a satisfactory level.
 - Extra credit is not guaranteed to be avalible on all assignments.
