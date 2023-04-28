@@ -34,7 +34,8 @@
 
 <script setup lang="ts">
 import { useTheme } from 'vuetify/lib/framework.mjs'
-import { Navigation } from 'vuetify/components/Navigation'
+import { VNavigationDrawer } from 'vuetify/components/VNavigationDrawer'
+import { VAppBar } from 'vuetify/components/VAppBar'
 
 const theme = useTheme()
 
