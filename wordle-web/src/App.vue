@@ -33,7 +33,8 @@
 </template>
 
 <script setup lang="ts">
-import { useTheme } from 'vuetify/lib/framework.mjs'
+    import { useTheme } from 'vuetify/lib/framework.mjs'
+    import { Navigation } from 'vuetify/components/Navigation'
 
 const theme = useTheme()
 
