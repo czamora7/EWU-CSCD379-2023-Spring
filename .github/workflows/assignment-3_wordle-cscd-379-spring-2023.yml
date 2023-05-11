@@ -58,5 +58,5 @@ jobs:
         with:
           app-name: 'Wordle-CSCD-379-Spring-2023'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_API }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A1FA1E26C90A49E691CA6CEFBF415076 }}
           package: .
